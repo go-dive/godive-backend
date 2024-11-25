@@ -1,0 +1,20 @@
+{
+    "divingSpots": [
+        {
+            "id": 1,
+            "name": "Banda Neira",
+            "location": {
+                "country": "Indonesia",
+                "provinsi": "Jawa Timur",
+                "city": "Surabaya"
+            },
+            "operation": "19.30 - 20.30",
+            "description": "lorem ipsum",
+            "rating": "4.9",
+            "images": [
+                "https://storage.googleapis.com/daffa-ammar.appspot.com/profile.jpeg",
+                "https://storage.googleapis.com/daffa-ammar.appspot.com/sertif1.png"
+            ]
+        }
+    ]
+}
